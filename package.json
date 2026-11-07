@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-tijarah-inventory-zakat",
+  "version": "1.0.0",
+  "description": "Urud Al-Tijarah Net Working Capital & Inventory Zakat Calculator (محرك زكاة عروض التجارة ورأس المال العامل والديون)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
